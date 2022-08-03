@@ -8,8 +8,6 @@
 ## <img src="https://media2.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif?cid=ecf05e47xu3h3i3uysi2yi5ck4exlb5hmb9066s4dwpjmun9&rid=giphy.gif&ct=g" width="50px" height="50px"></img> About Me
 
 - :credit_card: My full name is **Nguyễn xuân huy** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently 3rd year student at **FPT University - Ha noi City Campus**
-- :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ha giang, Viet Nam**
 - :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
@@ -42,28 +40,18 @@
     <img align="center" alt="Huyhgtq | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/huyhgtq/" target="_blank">
-    <img align="center" alt="huyhgtq | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  
+  <a href="https://www.facebook.com/emkhongphainangtho/" target="_blank">
+      <img align="center" alt="Huyhgtq | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
-      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  <a href="https://www.instagram.com/huyhgtq/" target="_blank">
+    <img align="center" alt="Huyhgtq | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.youtube.com/channel/UC0xovL51iHgLKwLptcgNpYQ" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
-  </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Nguyen xuan huy | huyhgtq
+  &copy; 2021 Nguyen xuan huy | Huyhgtq
 </div>
