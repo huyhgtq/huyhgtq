@@ -7,10 +7,10 @@
 
 ## <img src="https://media2.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif?cid=ecf05e47xu3h3i3uysi2yi5ck4exlb5hmb9066s4dwpjmun9&rid=giphy.gif&ct=g" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Nguyễn xuân huy** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Nguyễn xuân huy** <img src="https://media0.giphy.com/media/QthHQMMfHaGk0/giphy.gif?cid=ecf05e47ubegpvnj8v7zijjfdvtkkf0dcktu39mzcggdqedp&rid=giphy.gif&ct=g" width="400" align="right"/>
 - :earth_asia: I'm living now in **Ha giang, Viet Nam**
-- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
-- :monocle_face: I'm interested in coding, sleeping, and watching film
+- :sweat_smile: I am a newbie in coding, know nodejs and java language. Now I am focusing on learning Web Development on my own.
+- :monocle_face: I'm interested in coding, sleeping and playing games
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
