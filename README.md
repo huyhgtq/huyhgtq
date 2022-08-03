@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/huyhgtq?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/huyhgtq?style=social"> &nbsp;&nbsp; <img alt="Huyhgtq | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/adi1090x/files/master/dynamic-wallpaper/colony.gif" alt="Title"></img>
@@ -65,5 +65,5 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
+  &copy; 2021 Nguyen xuan huy | huyhgtq
 </div>
