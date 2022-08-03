@@ -7,10 +7,10 @@
 
 ## <img src="https://media2.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif?cid=ecf05e47xu3h3i3uysi2yi5ck4exlb5hmb9066s4dwpjmun9&rid=giphy.gif&ct=g" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Huỳnh Lê Thủy Tiên** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
+- :credit_card: My full name is **Nguyễn xuân huy** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :school: I'm currently 3rd year student at **FPT University - Ha noi City Campus**
 - :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
+- :earth_asia: I'm living now in **Ha giang, Viet Nam**
 - :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
@@ -27,23 +27,23 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px" height="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhgtq&layout=compact&show_icon=true&theme=algolia" alt="huyhgtq-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=huyhgtq&layout=compact&show_icon=true&theme=algolia" alt="huyhgtq-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=huyhgtq&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=huyhgtq&theme=react-dark"/>
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:huyn9589@gmail.com >
+    <img align="center" alt="Huyhgtq | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/huyhgtq/" target="_blank">
+    <img align="center" alt="huyhgtq | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
