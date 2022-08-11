@@ -34,7 +34,7 @@
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
 
-## <img src='https://media4.giphy.com/media/hlQeY3PbhH3i/giphy.gif?cid=ecf05e47ln94et7l0tyodte6sxydvtr39efwdr5qqyb0ddcs&rid=giphy.gif&ct=g' width="70px" height="70px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://media4.giphy.com/media/hlQeY3PbhH3i/giphy.gif?cid=ecf05e47ln94et7l0tyodte6sxydvtr39efwdr5qqyb0ddcs&rid=giphy.gif&ct=g' width="70px" height="100px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:huyn9589@gmail.com >
     <img align="center" alt="Huyhgtq | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
